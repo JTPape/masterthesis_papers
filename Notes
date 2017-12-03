@@ -1,0 +1,6 @@
+NOTES:
+
+	- batch rl paper introduces concept of experience replay
+
+	- qlearning report mentions increasing batch size for comm overhead ( page 6 start)
+	- qlearning report mentions experience replay adjustments for distributed learninr (page 3)
